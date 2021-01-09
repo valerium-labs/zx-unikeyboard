@@ -4,7 +4,7 @@ This is a keyboard controller for Speccy that allows to connect any keyboard mat
 valerum@rambler.ru
 Russia, 2021
 
-Based on idea of converting a custom keyboard into PS/2-keyboard
+Based on ideas of converting a custom keyboard into PS/2-keyboard
 https://zx-pk.ru/threads/32497-kak-peredelat-prakticheski-lyubuyu-klaviaturu-v-ps-2.html
 and PS/2-CPLD-keyboard controller by andykarpov
 https://github.com/andykarpov/ps2_cpld_kbd
