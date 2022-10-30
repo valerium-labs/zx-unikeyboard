@@ -1,0 +1,3 @@
+Some errors found
+
+1. JTAG and ISP connectors are mirrored (so they can be soldered to the bottom side then removed after MCU and CPLD flashing)
